@@ -1,0 +1,29 @@
+{
+  "name": "ddc-menu",
+  "version": "0.0.1",
+  "description": "Dieu du Ciel beer menu",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cbab/ddc-menu"
+  },
+  "main": "menu.js",
+  "keywords": [
+    "dieu du ciel",
+    "ddc",
+    "menu",
+    "beer"
+  ],
+  "author": "Christian Babeux",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cbab/ddc-menu/issues"
+  },
+  "dependencies": {
+    "charset": "0.0.1",
+    "colors": "~0.6.2",
+    "string": "~1.7.0",
+    "cheerio": "~0.12.4",
+    "request": "~2.27.0",
+    "iconv": "~2.0.7"
+  }
+}

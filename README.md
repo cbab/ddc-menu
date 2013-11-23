@@ -1,10 +1,10 @@
 ddc-menu
 ========
 
-### Installation and usage
-
+### Dependency
 This utility require Node.js to be installed on your system.
 
+### Installation and usage
 ````
 $ git clone https://github.com/cbab/ddc-menu
 $ cd ddc-menu

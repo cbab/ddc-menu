@@ -1,10 +1,11 @@
 ddc-menu
 ========
 
-### Installation
+### Installation and usage
 ````
+$ git clone https://github.com/cbab/ddc-menu
+$ cd ddc-menu
 $ npm install
+$ node menu.js
 
-````
-### Command Line Interface
-just run `node menu.js` and the beer menu will appear
+You should now have a beer menu similar to this:

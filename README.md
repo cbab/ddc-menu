@@ -2,7 +2,7 @@ ddc-menu
 ========
 
 ### Dependency
-This utility require Node.js to be installed on your system.
+This utility require [Node.js](http://www.nodejs.org) to be installed on your system.
 
 ### Installation and usage
 ````

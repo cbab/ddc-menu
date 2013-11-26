@@ -1,6 +1,8 @@
 ddc-menu
 ========
 
+A simple command-line utility to query the [Dieu du Ciel!](http://www.dieuduciel.com/en/home.php) brewery current beer menu.
+
 ### Dependency
 This utility require [Node.js](http://www.nodejs.org) to be installed on your system.
 
